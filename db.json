@@ -1,14 +1,14 @@
 {
   "games": [
     {
-      "id": 2,
+      "id": 1,
       "name": "Bottle Flip 2",
       "url": "https://simpleiralgames.com",
       "author": "Simple Viral Games",
       "published_date": "2022-08-04 00:00:00"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Valorant",
       "url": "https://playvalorant.com/en-gb/",
       "author": "Riot Games",
